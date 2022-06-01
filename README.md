@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm yasadiye</h1>
 <h3 align="center">A passionate computer engineer from Turkey.</h3>
-<img align="rigth"  width="400" src="https://tenor.com/view/minions-workaholic-computer-gif-13098847" >
+<img align="rigth"  width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeD0lPdFigeKEVfFXPavTVwf3-hBlSO3Hl9-Q4nD_XN8Bvp1B44y2RfT19J8S5rq1ZCDM&usqp=CAU" >
 - 🔭 I’m currently working on **Machine Learning CNN image classification**
 
 - 🌱 I’m currently learning **DevOps, react, react native**
