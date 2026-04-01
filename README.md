@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm yunus</h1>
 <h3 align="center">A passionate computer engineer from Turkey.</h3>
-<img align="rigth"  width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeD0lPdFigeKEVfFXPavTVwf3-hBlSO3Hl9-Q4nD_XN8Bvp1B44y2RfT19J8S5rq1ZCDM&usqp=CAU" >
+<img align="rigth"  width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeD0lPdFigeKEVfFXPavTVwf3-hBlSO3Hl9-Q4nD_XN8Bvp1B44y2RfT19J8S5rq1ZCDM&usqp=CAU](https://www.yandex.com.tr/gorsel/search?pos=0&text=bilgisayar+m%C3%BChendisi+erkek+animasyon+foto&img_url=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F047%2F072%2F764%2Fsmall_2x%2Fa-cartoon-illustration-of-a-young-man-working-on-a-desktop-computer-at-an-office-desk-he-is-wearing-glasses-and-a-yellow-shirt-and-is-focused-on-his-work-free-vector.jpg&lr=115881&source=serp&rpt=simage)" >
 - 🔭 I’m currently working on **Machine Learning CNN image classification**
 
 - 🌱 I’m currently learning **DevOps, react, react native**
