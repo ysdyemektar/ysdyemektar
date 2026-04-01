@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm yunus</h1>
 <h3 align="center">A passionate computer engineer from Turkey.</h3>
-<img align="rigth"  width="400" src="https://www.vecteezy.com/vector-art/17041899-a-man-in-an-office-looks-at-computer-screen-and-presses-keyboard" >
+<img align="rigth"  width="400" src="https://www.vecteezy.com/vector-art/47072764-a-cartoon-illustration-of-a-young-man-working-on-a-desktop-computer-at-an-office-desk-he-is-wearing-glasses-and-a-yellow-shirt-and-is-focused-on-his-work" >
 - 🔭 I’m currently working on **Machine Learning CNN image classification**
 
 - 🌱 I’m currently learning **DevOps, react, react native**
